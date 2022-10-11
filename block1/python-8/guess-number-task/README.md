@@ -1,17 +1,17 @@
 # Проект 0. Угадай число
 
 ## Оглавление
-[1. Описание проекта](https://github.com/ekalouguine/sf_dspr_202209/tree/main/block1/python-8/guess-number-task/README.md#Описание-проекта)  
-[2. Какой кейс решаем?](https://github.com/ekalouguine/sf_dspr_202209/tree/main/block1/python-8/guess-number-task/README.md#Какой-кейс-решаем)  
-[3. Краткая информация о данных](https://github.com/ekalouguine/sf_dspr_202209/tree/main/block1/python-8/guess-number-task/README.md#Краткая-информация-о-данных)  
-[4. Этапы работы над проектом](https://github.com/ekalouguine/sf_dspr_202209/tree/main/block1/python-8/guess-number-task/README.md#Этапы-работы-над-проектом)  
-[5. Результат](https://github.com/ekalouguine/sf_dspr_202209/tree/main/block1/python-8/guess-number-task/README.md#Результаты)    
-[6. Выводы](https://github.com/ekalouguine/sf_dspr_202209/tree/main/block1/python-8/guess-number-task/README.md#Выводы) 
+[1. Описание проекта](#Описание-проекта)  
+[2. Какой кейс решаем?](#Какой-кейс-решаем)  
+[3. Краткая информация о данных](#Краткая-информация-о-данных)  
+[4. Этапы работы над проектом](#Этапы-работы-над-проектом)  
+[5. Результаты](#Результаты)    
+[6. Выводы](#Выводы) 
 
 ### Описание проекта
 Угадать загаданное компьютером число за минимальное число попыток.
 
-:arrow_up:[к оглавлению](https://github.com/ekalouguine/sf_dspr_202209/tree/main/block1/python-8/guess-number-task/README.md#Оглавление)
+:arrow_up:[к оглавлению](#Оглавление)
 
 
 ### Какой кейс решаем?
@@ -31,22 +31,22 @@
 ### Краткая информация о данных
 ....
   
-:arrow_up:[к оглавлению](https://github.com/ekalouguine/sf_dspr_202209/tree/main/block1/python-8/guess-number-task/README.md#Оглавление)
+:arrow_up:[к оглавлению](#Оглавление)
 
 
 ### Этапы работы над проектом
 ....
 
-:arrow_up:[к оглавлению](https://github.com/ekalouguine/sf_dspr_202209/tree/main/block1/python-8/guess-number-task/README.md#Оглавление)
+:arrow_up:[к оглавлению](#Оглавление)
 
 
-### Результаты
+### Результаты:
 Реализованный алгоритм угадывает число в среднем за 6 попыток
 
-:arrow_up:[к оглавлению](https://github.com/ekalouguine/sf_dspr_202209/tree/main/block1/python-8/guess-number-task/README.md#Оглавление)
+:arrow_up:[к оглавлению](#Оглавление)
 
 
-### Выводы
+### Выводы:
 Выполнено требование реализовать алгоритм, который угадывает число меньше чем за 20 попыток.
 
-:arrow_up:[к оглавлению](https://github.com/ekalouguine/sf_dspr_202209/tree/main/block1/python-8/guess-number-task/README.md#Оглавление)
+:arrow_up:[к оглавлению](#Оглавление)
